@@ -114,3 +114,28 @@
     flex-direction: column;
   }
 }
+
+.mainContainer {
+  padding: 15px 30px;
+  padding-top: 45px;
+}
+
+.articleList {
+  margin-top: 55px;
+}
+
+.desc {
+  color: #3b3b3b;
+  font-style: italic;
+  font-size: 0.85rem;
+}
+
+.articleList > div {
+  margin-bottom: 50px;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
